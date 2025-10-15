@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and history
 - 🌱 I’m currently learning greedy algorithm for AI, Operating systems and Software architecture
 - 💞️ I’m looking to collaborate on software development projects
-- 📫 How to reach me: 18dw1@queensu.ca
+- 📫 How to reach me: 
 
 <!---
 miracletrespasser/miracletrespasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
